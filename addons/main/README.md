@@ -1,7 +1,7 @@
-MOD_PREFIX_main
+dnt_main
 ===================
 
-Main Addon for MOD_TITLE
+Main Addon for Death Note
 
 ## Maintainers
 
