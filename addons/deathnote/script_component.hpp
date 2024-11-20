@@ -7,3 +7,6 @@
 // #define ENABLE_PERFORMANCE_COUNTERS
 
 #include "\z\dnt\addons\main\script_macros.hpp"
+#include "\a3\ui_f\hpp\defineResincl.inc"
+#include "\a3\3DEN\ui\macros.inc"
+#include "script_macros.hpp"

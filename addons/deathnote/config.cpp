@@ -5,7 +5,7 @@ class CfgPatches {
         author = AUTHOR;
         authors[] = {"DartRuffian"};
         url = ECSTRING(main,url);
-        name = CSTRING(displayName); // Just use "Death Note" instead of "Death Note - Death Note"
+        name = CSTRING(displayName);
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
             "dnt_main"
@@ -16,4 +16,7 @@ class CfgPatches {
     };
 };
 
+#include "CfgWeapons.hpp"
 #include "CfgEventHandlers.hpp"
+#include "CfgDeaths.hpp"
+#include "ui\RscDeathNote.hpp"
