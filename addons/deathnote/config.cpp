@@ -5,7 +5,7 @@ class CfgPatches {
         author = AUTHOR;
         authors[] = {"DartRuffian"};
         url = ECSTRING(main,url);
-        name = COMPONENT_NAME;
+        name = CSTRING(displayName); // Just use "Death Note" instead of "Death Note - Death Note"
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
             "dnt_main"

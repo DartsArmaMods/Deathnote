@@ -1,5 +1,5 @@
-#define COMPONENT common
-#define COMPONENT_BEAUTIFIED Common
+#define COMPONENT deathnote
+#define COMPONENT_BEAUTIFIED Death Note
 #include "\z\dnt\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL

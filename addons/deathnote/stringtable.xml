@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Death Note">
+    <Package name="DeathNote">
+        <Key ID="STR_dnt_deathnote_displayName">
+            <English>Death Note</English>
+        </Key>
+    </Package>
+</Project>
