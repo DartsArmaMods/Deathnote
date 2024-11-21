@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Death Note">
+    <Package name="Deaths">
+        <Key ID="STR_dnt_deaths_anonymousDeaths_name">
+            <English>Anonymous Deaths</English>
+        </Key>
+        <Key ID="STR_dnt_deaths_anonymousDeaths_tooltip">
+            <English>If disabled, the killer will be tracked in the kill credits and receive points for any kills.</English>
+        </Key>
+        <Key ID="STR_dnt_deaths_displayName">
+            <English>Deaths</English>
+        </Key>
+        <Key ID="STR_dnt_deaths_setOnFire">
+            <English>%1 covered themselves in oil and struck a match</English>
+        </Key>
+    </Package>
+</Project>

@@ -5,10 +5,10 @@ class CfgPatches {
         author = AUTHOR;
         authors[] = {"DartRuffian"};
         url = ECSTRING(main,url);
-        name = CSTRING(displayName);
+        name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "dnt_deaths"
+            "dnt_main"
         };
         units[] = {};
         weapons[] = {};
@@ -16,6 +16,5 @@ class CfgPatches {
     };
 };
 
-#include "CfgWeapons.hpp"
 #include "CfgEventHandlers.hpp"
-#include "ui\RscDeathNote.hpp"
+#include "CfgDeaths.hpp"
